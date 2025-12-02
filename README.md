@@ -1,4 +1,5 @@
-This project is licensed for educational/review purposes only.
+This project is licensed under the CC BY-NC 4.0 License.
+Commercial use is NOT permitted.
 
 # websiteLandingPage
 A simple landing page that demonstrates the usage of css float and display inline-block
